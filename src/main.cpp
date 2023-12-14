@@ -46,7 +46,6 @@ void RenderArray()
     }
 }
 
-
 void BubbleSort()
 {
     int curr = 0;
